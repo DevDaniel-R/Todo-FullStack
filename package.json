@@ -1,0 +1,23 @@
+{
+  "name": "Full-Stack-Todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevDaniel-R/Todo-FullStack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevDaniel-R/Todo-FullStack/issues"
+  },
+  "homepage": "https://github.com/DevDaniel-R/Todo-FullStack#readme",
+  "dependencies": {
+    "tailwindcss": "^1.1.4"
+  }
+}
